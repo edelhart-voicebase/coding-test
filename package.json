@@ -1,0 +1,13 @@
+{
+  "name": "coding-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/edelhart-voicebase/coding-test",
+  "author": "edelhart-voicebase <dedelhart@voicebase.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.11",
+    "uuid": "^3.3.2"
+  }
+}
